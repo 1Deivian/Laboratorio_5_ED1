@@ -1,0 +1,40 @@
+-Laboratorio 1:
+
+Sistema de recomendaciones de apartamentos
+-------------------------------------------
+- Caso de Estudio:
+
+Los estudiantes de estructuras de datos 1 de la Universidad Rafael Landívar fueron contratados por la
+empresa, Inmuebles GT, cuyo mercado esta enfocado en el alquiler de Bienes raíces en varios sectores
+de Guatemala.
+Por otro lado, la empresa busca implementar un sistema que recomiende al cliente los mejores
+apartamentos de acuerdo con los requerimientos y negocios del cliente (E.g. Tienda, gimnasio, colegio,
+etc..). De igual manera, deben tomar en cuenta que el sistema considera aquellos apartamentos donde
+el cliente debe caminar lo menor posible, en caso de que no existan un requerimiento, el sistema no
+debe recomendar ningún apartamento.
+
+-Laboratorio 2:
+
+Refactorización del sistema de recomendación de apartamentos
+-------------------------------------------------------------
+- Caso de Estudio:
+
+El gerente de Inmuebles GT realizó varias pruebas del sistema de recomendación con clientes que
+deseaban un apartamento, lo cual los clientes se sorprendieron por la velocidad y exactitud que le
+recomendaba dichos apartamentos de acuerdo con las necesidades y servicios requeridos por la persona.
+Sin embargo, el gerente observó que tenía dificultades de recomendar de acuerdo con las reglas y
+restricciones que tiene cada construcción, además de tomar en consideración el presupuesto del cliente.
+Por lo tanto, la empresa de Inmuebles GT desea contratar nuevamente a los estudiantes de estructura
+de datos 1 de la Universidad Rafael Landívar, para mejorar dicho sistema de recomendación.
+
+-Laboratorio 3:
+
+Subastas de inmuebles
+-------------------------------------------------------------
+- Caso de Estudio:
+
+El gerente de inmuebles GT otorgó excelentes observaciones a la nueva recomendación de construcciones
+tales como apartamentos, locales y casas, permitiéndole crear una nueva estrategia comercial con sus
+clientes, además de crear nuevas experiencias de usuarios innovadoras dentro del mercado.
+Por lo cual desea una nueva implementación a la búsqueda de los clientes, además del giro de negocio de
+una subasta de inmueble.
