@@ -1,0 +1,14 @@
+-Laboratorio 1:
+
+Sistema de recomendaciones de apartamentos
+-------------------------------------------
+- Caso de Estudio:
+
+Los estudiantes de estructuras de datos 1 de la Universidad Rafael Landívar fueron contratados por la
+empresa, Inmuebles GT, cuyo mercado esta enfocado en el alquiler de Bienes raíces en varios sectores
+de Guatemala.
+Por otro lado, la empresa busca implementar un sistema que recomiende al cliente los mejores
+apartamentos de acuerdo con los requerimientos y negocios del cliente (E.g. Tienda, gimnasio, colegio,
+etc..). De igual manera, deben tomar en cuenta que el sistema considera aquellos apartamentos donde
+el cliente debe caminar lo menor posible, en caso de que no existan un requerimiento, el sistema no
+debe recomendar ningún apartamento.
